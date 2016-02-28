@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="books">Android in 2 hours</string>
+    <string name="desc">This will help you do nothing, you will only learn how to open a project. Go on and waste your cash here!</string>
+    <string name="button1">Click Me</string>
+    <string name="detailTextView1">Activity Two</string>
+    <string name="button2">Implicit View URL</string>
+    <string name="button3">Implicit Send Text</string>
+</resources>
