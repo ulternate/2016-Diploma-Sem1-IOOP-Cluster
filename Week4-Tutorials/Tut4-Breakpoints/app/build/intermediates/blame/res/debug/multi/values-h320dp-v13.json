@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week4-Tutorials/Tut4-Breakpoints/app/build/intermediates/res/merged/debug/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week4-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/res/merged/debug/values-h320dp-v13/values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

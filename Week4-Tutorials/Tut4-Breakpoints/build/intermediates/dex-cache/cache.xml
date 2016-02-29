@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_a0bd5a0bda6cabe3f8337ae6780c322c86c153c3.jar" />
+    </item>
+    <item
+        jar="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_2336bf4eb3acd10faeb370933bc34fda8bf6712f.jar" />
+    </item>
+    <item
+        jar="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_16b2d254233a4574ea6f00b8cd1291ddfd9336a8.jar" />
+    </item>
+    <item
+        jar="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_3e402e6ff2290f43af2f2c81ca42c867dd42c5bf.jar" />
+    </item>
+    <item
+        jar="/Users/ulternate/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_4b1bc63f771b6a323ed5e2e73cca9c7532c9dc1a.jar" />
+    </item>
+    <item
+        jar="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week3-Tutorials/Tut4-Breakpoints/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_4f6d594e8a09b793307a364edd076d35379b3da5.jar" />
+    </item>
+
+</items>
