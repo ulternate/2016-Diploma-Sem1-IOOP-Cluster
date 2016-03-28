@@ -1,0 +1,921 @@
+[
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 49,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 49,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 53,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 53,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 58,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 52,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 206,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 53,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut1-ReturningData/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 49,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 49,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 53,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 53,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 53,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 58,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 58,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 52,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 206,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 444,
+                        "endColumn": 203,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 53,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 53,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut2-DisplayingDataInList/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 53,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 53,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 53,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 53,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 53,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 58,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 58,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 52,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 52,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 206,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 439,
+                        "endColumn": 203,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 53,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 53,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week6-Tutorials/Tut4-IntentExtras/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 53,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 49,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 49,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 53,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 53,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 53,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 58,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 58,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 52,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 206,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 444,
+                        "endColumn": 203,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 53,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 53,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "/Volumes/STORAGE/Dropbox/Documents/Programming/TAFE/Semester-1/Interactive-Object-Oriented-Cluster/Week7-Tutorials/Tut3-CustomisingListItem/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internal_External_Storage</string>
+    <string name="textView1">Internal_External_Storage</string>
+    <string name="inputText">Internal and External Storage</string>
+    <string name="internalStorageSave">Internal Storage(Save)</string>
+    <string name="internalStorageGet">Internal Storage(Display)</string>
+    <string name="externalStorageSave">External Storage(Save)</string>
+    <string name="externalStorageGet">External Storage(Display)</string>
+</resources>
