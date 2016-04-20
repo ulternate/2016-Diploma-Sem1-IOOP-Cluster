@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Line Shape, red-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+
+    <!-- Specify a semi-transparent solid red color -->
+    <solid android:color="#55ff0000" />
+
+    <stroke
+        android:width="4dp"
+        android:color="#55ff0000"
+        />
+
+    <!-- Specify the margins that all content inside the drawable must adhere to -->
+    <padding
+        android:left="30dp"
+        android:right="30dp"
+        android:top="30dp"
+        android:bottom="30dp" />
+</shape>

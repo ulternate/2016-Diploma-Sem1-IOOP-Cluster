@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Ring shape, blue-->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:innerRadius="15dp"
+    android:thickness="10dp"
+    android:useLevel="false">
+
+    <!-- Specify a semi-transparent solid blue background color -->
+    <solid android:color="#55021fff" />
+
+    <!-- Specify the margins that all content inside the drawable must adhere to -->
+    <padding
+        android:left="30dp"
+        android:right="30dp"
+        android:top="30dp"
+        android:bottom="30dp" />
+</shape>
